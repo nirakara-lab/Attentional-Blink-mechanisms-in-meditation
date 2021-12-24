@@ -1,9 +1,6 @@
-# Attentional-Blink-mechanisms-in-meditation
+# How do mindfulness and compassion programs improve mental health and well-being? The role of attentional processing of emotional information
 
-Copyright (c) 2019 Nirakara Lab
-
-Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+Objectives: To examine whether: (1) formal training in mindfulness and compassion meditation could modify the distribution of attentional resources towards emotional information; and (2) changes in attentional processing of emotional information after the meditation programs mediate the improvements in psychological distress, emotion regulation, and well-being. 
+Methods: A sample of 103 participants enrolled in the study: 36 in the mindfulness program (MBSR), 30 in the compassion program (CCT), and 37 in the control group (CG). The assessment before and after the programs included the completion of an emotional Attentional Blink task (AB) together with self-report measures of psychological distress, emotion regulation, and well-being. 
+Results: MBSR and CCT reduced similarly the AB deficit, while no changes were found in the control group. This AB reduction was found for the different emotional stimuli (i.e., negative, positive, and neutral), showing a significant disengagement of first target emotions and significant accessibility of second target emotions to consciousness. The effects of both meditation programs on the psychological measures were mediated by changes in the AB and emotion regulation skills. 
+Conclusions: Meditation may promote more flexible and balanced attention to emotional information, which may be a key transdiagnostic mechanism underlying its benefits on emotional distress and wellbeing.
